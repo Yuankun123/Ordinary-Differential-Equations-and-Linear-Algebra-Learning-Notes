@@ -2,8 +2,7 @@
 
 ### Theorem
 
-If $D $ is an open subset of ${\mathbb{R} \times \mathbb{R}} $, $f: D \rightarrow \mathbb{R}$ is a
-continuous function, and $y'(x) = f(x, y)$ is an explicit first order ODE,
+If $D $ is an open subset of ${\mathbb{R} \times \mathbb{R}} $, $f: D \rightarrow \mathbb{R}$ is a continuous function, and $y'(x) = f(x, y)$ is an explicit first order ODE,
 
 then, $\forall (x_{0}, y_{0}) \in D$, the initial value problem $y(x_{0}) = y_{0}$ must have a local solution.
 
